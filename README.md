@@ -26,7 +26,7 @@ Text to send:
 >>HERE PUT YOUR MESSAGE (ex ^A^B^C^) <<
 ```
 
-after send message (clic enter)
+after send message (click enter)
 ```
 Client connected to 127.0.0.1:2011
 Message from server: A
